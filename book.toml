@@ -1,0 +1,21 @@
+[book]
+title = "Tintin's Home"
+authors = ["Tintin"]
+
+[output.html]
+mathjax-support = true
+additional-css = ["assets/css/style.css"]
+additional-js = ["assets/js/grant.js", "assets/js/fzf.umd.js", "assets/js/elasticlunr.js"]
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
+
+[output.html.fold]
+enable = true
+level = 0
