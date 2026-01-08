@@ -1,7 +1,5 @@
 # 卷一：科学说需求
 
-> 《经济解释五卷本：二O一九增订版》 张五常 著
-
 ## 第一章：科学的方法
 
 > 科学不是求对，也不是求错；科学求的是“可能被事实推翻”。可能被事实推翻而没有被推翻，就算是被证实了。
@@ -640,7 +638,7 @@ Utility 译得不好不重要，因为曾经有百多年时间，西方的经济
 >
 > George J. Stigler
 
-![George J. Stigler](volume-one-chapter-9-image2.png)
+![George J. Stigler](volume-1-chapter-9-image2.png)
 
 翻过来是：
 
@@ -1691,7 +1689,7 @@ S. N. S. Cheung, "The Fable of the Bees: An Economic Investigation," Journal of 
 
 附图以纵轴为价（P），横轴为量（Q）。竖直的S线代表着某物品的供应总量（Q<sup>\*</sup>），假设固定不变。有A与B两个人，d<sub>A</sub>与d<sub>B</sub>分别是二者对该物品的需求曲线。先假设在交易之前该物品全部为B所有。这样，该物品给B的边际用值是M。A完全没有该物品，其边际用值是N。在这情况下，
 
-![一九七一年图表：交易理论与市场需求](volume-one-chapter-9-image1.png)
+![一九七一年图表：交易理论与市场需求](volume-1-chapter-9-image1.png)
 
 如果交易之价高于M，B会出售给A。另一方面，如果购买之价低于N，A会购入。
 

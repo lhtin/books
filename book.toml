@@ -4,8 +4,8 @@ authors = ["Tintin"]
 
 [output.html]
 mathjax-support = true
-additional-css = ["css/style.css"]
-additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
+additional-css = ["assets/css/style.css"]
+additional-js = ["assets/js/grant.js", "assets/js/fzf.umd.js", "assets/js/elasticlunr.js"]
 
 [output.html.search]
 limit-results = 20
