@@ -9,3 +9,5 @@
 [卷四：制度的选择](./economic-explanation/volume-4.md)
 [卷五：国家的经济理论](./economic-explanation/volume-5.md)
 [后记](./economic-explanation/afterword.md)
+---
+[Democratizing AI Compute](./democratizing-ai-compute/Democratizing-AI-Compute.md)
