@@ -14,6 +14,9 @@ class MDBookSidebarScrollbox extends HTMLElement {
         if (current_page.endsWith('/')) {
             current_page += 'index.html';
         }
+        document.querySelectorAll('strong').forEach(strong => {
+            strong.parentNode.removeChild(strong);
+        });
         const links = Array.prototype.slice.call(this.querySelectorAll('a'));
         const l = links.length;
         for (let i = 0; i < l; ++i) {
