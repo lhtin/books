@@ -1,6 +1,6 @@
 # Index
 
-- [Tintin's Home]()
+- [Tintin's Home](./index.md)
 
 - [《经济解释五卷本：二O一九增订版》](./economic-explanation/index.md)
   - [引言](./economic-explanation/preface.md)
