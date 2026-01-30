@@ -255,21 +255,21 @@
 
 ### 参考文献
 
-A. A. Alchian, "Uncertainty, Evolution, and Economic Theory," Journal of Political Economy, 1950.
+A. A. Alchian, "Uncertainty, Evolution, and Economic Theory," *Journal of Political Economy*, 1950.
 
-D. F. Gordon, "Operational Propositions in Economic Theory," Journal of Political Economy, 1955.
+D. F. Gordon, "Operational Propositions in Economic Theory," *Journal of Political Economy*, 1955.
 
-R. Carnap, Logical Foundations of Probability. University of Chicago Press, 1962.
+R. Carnap, *Logical Foundations of Probability*. University of Chicago Press, 1962.
 
-E. Nagel, "Assumptions in Economic Theory," American Economic Review, 1963.
+E. Nagel, "Assumptions in Economic Theory," *American Economic Review*, 1963.
 
-C. G. Hempel, Philosophy of Natural Science. Prentice-Hall, 1966.
+C. G. Hempel, *Philosophy of Natural Science*. Prentice-Hall, 1966.
 
 ## 第二章：自私的武断假设
 
 > 我们知道自私可以给社会带来利益这个观点中国的老子先于斯密，而资源稀缺需要有制度的约束可见于韩非子的言论。另一方面，分工合作可以增加产量中国的古人早就知道。然而，通过市场来体现分工合作带来的巨利却是斯密首先以巨著来大论的。这促成西方的经济学的发展。
 
-经济学鼻祖亚当・斯密（Adam Smith）发表过两本重要的书：其一是一七五九年出版的《道德情操论》（The Theory of Moral Sentiments）；其二是一七七六年出版的《国富论》（The Wealth of Nations）。前者论博爱，后者说自私。骤眼看二者有点互相矛盾。其实没有，而弄清楚前、后二者的来龙去脉不仅让我们能较为深入地理解为什么近四十年来经济学出现了悲剧性的发展，也让我们意识到西方的科学发展是有着令人拜服的层面。
+经济学鼻祖亚当・斯密（Adam Smith）发表过两本重要的书：其一是一七五九年出版的《道德情操论》（*The Theory of Moral Sentiments*）；其二是一七七六年出版的《国富论》（*The Wealth of Nations*）。前者论博爱，后者说自私。骤眼看二者有点互相矛盾。其实没有，而弄清楚前、后二者的来龙去脉不仅让我们能较为深入地理解为什么近四十年来经济学出现了悲剧性的发展，也让我们意识到西方的科学发展是有着令人拜服的层面。
 
 ### 第一节：从斯密到达尔文到道金斯
 
@@ -309,9 +309,9 @@ C. G. Hempel, Philosophy of Natural Science. Prentice-Hall, 1966.
 
 另一个今天看是相当严重的失误，是达尔文当年没有机会考察过很多的生物遭淘汰的证据，以为遭淘汰的一律是不适者。这也是源于斯密的思维。在斯前辈的《国富论》中，我们见不到制度的安排会转向劣质或无效率那方向走。适者生存不容许人类毁灭自己。然而，单是在我们见到的二十世纪，人类有两次互相残杀的世界大战，有多种祸害民生的宗教与主义，有足以毁灭人类的核武的发明，而在中国有死人数以千万计的人民公社与“文化大革命”。适者生存怎可以出现这些悲剧呢？
 
-如果我们把自私看为适者生存的后果——斯密是这样看——人类不会毁灭自己。但如果自私是天生使然，那么人类毁灭自己的可能性存在。《国富论》发表刚好二百年后的一九七六，道金斯（Richard Dawkins）出版了一本题为《自私的基因》（The Selfish Gene）的书。这本书博大湛深，非常重要。该书说所有动物都天生有自私的基因，从各种动物的行为引用的实例不仅多，而且很有说服力。
+如果我们把自私看为适者生存的后果——斯密是这样看——人类不会毁灭自己。但如果自私是天生使然，那么人类毁灭自己的可能性存在。《国富论》发表刚好二百年后的一九七六，道金斯（Richard Dawkins）出版了一本题为《自私的基因》（*The Selfish Gene*）的书。这本书博大湛深，非常重要。该书说所有动物都天生有自私的基因，从各种动物的行为引用的实例不仅多，而且很有说服力。
 
-我的老师赫舒拉发（J. Hirshleifer）在上世纪六十年代教我时就对人类的灾难经济（the economics of disasters）有兴趣，读了道金斯的《自私的基因》就转向“生物经济学”（bioeconomics）那方面去，悲观地看世界。后来在二〇〇一年赫师出版《力量的暗面》（The Dark Side of the Force），那是博弈理论了。
+我的老师赫舒拉发（J. Hirshleifer）在上世纪六十年代教我时就对人类的灾难经济（the economics of disasters）有兴趣，读了道金斯的《自私的基因》就转向“生物经济学”（bioeconomics）那方面去，悲观地看世界。后来在二〇〇一年赫师出版《力量的暗面》（*The Dark Side of the Force*），那是博弈理论了。
 
 ### 第二节：经济解释的选择
 
@@ -403,15 +403,15 @@ C. G. Hempel, Philosophy of Natural Science. Prentice-Hall, 1966.
 
 ### 参考文献
 
-A. Smith, The Theory of Moral Sentiments. Edinburgh, 1759.
+A. Smith, *The Theory of Moral Sentiments*. Edinburgh, 1759.
 
-A. Smith, An Inquiry into the Nature and Causes of the Wealth of Nations. W. Strahan and T. Cadell, 1776.
+A. Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*. W. Strahan and T. Cadell, 1776.
 
-C. R. Darwin, The Origin of Species. John Murray, 1859.
+C. R. Darwin, *The Origin of Species*. John Murray, 1859.
 
-A. A. Alchian, "Uncertainty, Evolution, and Economic Theory," Journal of Political Economy, 1950.
+A. A. Alchian, "Uncertainty, Evolution, and Economic Theory," *Journal of Political Economy*, 1950.
 
-R. Dawkins, The Selfish Gene. Oxford University Press, 1976.
+R. Dawkins, *The Selfish Gene*. Oxford University Press, 1976.
 
 
 ## 第三章：缺乏与竞争
@@ -582,13 +582,13 @@ R. Dawkins, The Selfish Gene. Oxford University Press, 1976.
 
 ### 参考文献
 
-A. Marshall, Principles of Economics. Macmillan, 1890.
+A. Marshall, *Principles of Economics*. Macmillan, 1890.
 
-R. H. Coase, "The Problem of Social Cost," Journal of Law & Economics, 1960.
+R. H. Coase, "The Problem of Social Cost," *Journal of Law & Economics*, 1960.
 
-A. A. Alchian and W. R. Allen, University Economics. Wadsworth Publishing Company, 1964.
+A. A. Alchian and W. R. Allen, *University Economics*. Wadsworth Publishing Company, 1964.
 
-A. A. Alchian, "Some Economics of Property Rights," Il Politico, 1965.
+A. A. Alchian, "Some Economics of Property Rights," *Il Politico*, 1965.
 
 韩非子，“事因于世而备适于事”，《五蠹》。
 
@@ -775,27 +775,27 @@ Utility 译得不好不重要，因为曾经有百多年时间，西方的经济
 
 ### 参考文献
 
-J. Bentham, The Principles of Morals and Legislation. Oxford University Press, 1789.
+J. Bentham, *The Principles of Morals and Legislation*. Oxford University Press, 1789.
 
-A. Marshall, Principles of Economics. Macmillan, 1890.
+A. Marshall, *Principles of Economics*. Macmillan, 1890.
 
-I. Fisher, Mathematical Investigations in the Theory of Value and Prices. Cosimo, 1892.
+I. Fisher, *Mathematical Investigations in the Theory of Value and Prices*. Cosimo, 1892.
 
-E. E. Slutsky, "On the Theory of the Budget of the Consumer," (1915), Readings in Price Theory, Richard D. Irwin, 1952.
+E. E. Slutsky, "On the Theory of the Budget of the Consumer," (1915), *Readings in Price Theory*, Richard D. Irwin, 1952.
 
-J. R. Hicks, Value and Capital: An Inquiry into Some Fundamental Principles of Economic Theory. Clarendon Press, 1939.
+J. R. Hicks, *Value and Capital: An Inquiry into Some Fundamental Principles of Economic Theory*. Clarendon Press, 1939.
 
-M. Friedman and L. J. Savage, "The Utility Analysis of Choices Involving Risk," Journal of Political Economy, 1948.
+M. Friedman and L. J. Savage, "The Utility Analysis of Choices Involving Risk," *Journal of Political Economy*, 1948.
 
-G. J. Stigler, "The Development of Utility Theory. I," Journal of Political Economy, 1950.
+G. J. Stigler, "The Development of Utility Theory. I," *Journal of Political Economy*, 1950.
 
-G. J. Stigler, "The Development of Utility Theory. II," Journal of Political Economy, 1950.
+G. J. Stigler, "The Development of Utility Theory. II," *Journal of Political Economy*, 1950.
 
-R. H. Strotz, "Cardinal Utility," American Economic Review, 1953.
+R. H. Strotz, "Cardinal Utility," *American Economic Review*, 1953.
 
-A. A. Alchian, "The Meaning of Utility Measurement," American Economic Review, 1953.
+A. A. Alchian, "The Meaning of Utility Measurement," *American Economic Review*, 1953.
 
-S. N. S. Cheung, "The Enforcement of Property Rights in Children, and the Marriage Contract," Economic Journal, 1972.
+S. N. S. Cheung, "The Enforcement of Property Rights in Children, and the Marriage Contract," *Economic Journal*, 1972.
 
 
 ## 第五章：需求定律
@@ -850,7 +850,7 @@ S. N. S. Cheung, "The Enforcement of Property Rights in Children, and the Marria
 
 一般而言，弗老这分析是对的。困难是还可以有例外。例如，一个农业经济大丰收，农产品价格大幅下降，人民的实质收入是增长了的。又例如，政府大事资助教育，学生的学费下降至近于零，虽然社会的整体收入不会增加，但学生的实质收入有增长，因而逻辑上吉芬反论可能在学生阶层中出现。
 
-没有任何有斤两的经济学者不同意，如果需求定律不成立，整个经济学的架构会塌下来，溃不成军。严格来说，上述的弗老大文解决不了吉芬反论，但该文重要，因为他的局部均衡分析有一般均衡的内容。更重要的是在需求分析的变量与不变量的选择这学问上，该文及弗老一九六二年出版的《价格理论》（Price Theory）教我们很多。
+没有任何有斤两的经济学者不同意，如果需求定律不成立，整个经济学的架构会塌下来，溃不成军。严格来说，上述的弗老大文解决不了吉芬反论，但该文重要，因为他的局部均衡分析有一般均衡的内容。更重要的是在需求分析的变量与不变量的选择这学问上，该文及弗老一九六二年出版的《价格理论》（*Price Theory*）教我们很多。
 
 ### 第三节：不变量的选择
 
@@ -878,7 +878,7 @@ S. N. S. Cheung, "The Enforcement of Property Rights in Children, and the Marria
 
 这第三项可以倒转过来，从需求量的变动导致价格变动看，这二者之间的其他变量（因素）皆可变。这是重复了第三项。第三项开头以价格为独立变量（或自变量，independent variable），需求量为依变量（或因变量，dependent variable）。这里倒转过来，以需求量为自变量，价格为因变量。不倒转或倒转的分析效果相同。二者选其一，今天我们选前者：价格为自变量。昔日马歇尔是选后者的。
 
-我认为最精彩的关于需求定律的其他不变量（ceteris paribus）的分析，是弗里德曼的《价格理论》（Price Theory）一书内关于需求理论那一章。但弗老的分析过于复杂，不用方程式不容易说清楚。上文说的得到弗老的启发，虽然角度不同，表面看不一样，但大家的理论含意大致相同，可谓英雄所见略同矣。
+我认为最精彩的关于需求定律的其他不变量（ceteris paribus）的分析，是弗里德曼的《价格理论》（*Price Theory*）一书内关于需求理论那一章。但弗老的分析过于复杂，不用方程式不容易说清楚。上文说的得到弗老的启发，虽然角度不同，表面看不一样，但大家的理论含意大致相同，可谓英雄所见略同矣。
 
 ### 第四节：品味不变的假设
 
@@ -1118,17 +1118,17 @@ S. N. S. Cheung, "The Enforcement of Property Rights in Children, and the Marria
 
 ### 参考文献
 
-A. Marshall, Principles of Economics. Macmillan, 1890.
+A. Marshall, *Principles of Economics*. Macmillan, 1890.
 
-P. Wicksteed, The Common Sense of Political Economy. Macmillan, 1910.
+P. Wicksteed, *The Common Sense of Political Economy*. Macmillan, 1910.
 
-J. Robinson, The Economics of Imperfect Competition. Macmillan, 1933.
+J. Robinson, *The Economics of Imperfect Competition*. Macmillan, 1933.
 
-M. Friedman, "The Marshallian Demand Curve," Journal of Political Economy, 1949.
+M. Friedman, "The Marshallian Demand Curve," *Journal of Political Economy*, 1949.
 
-G. J. Stigler, The Theory of Price. Macmillan, 1952.
+G. J. Stigler, *The Theory of Price*. Macmillan, 1952.
 
-A. A. Alchian and W. R. Allen, University Economics. Wadsworth Publishing Company, 1964.
+A. A. Alchian and W. R. Allen, *University Economics*. Wadsworth Publishing Company, 1964.
 
 
 ## 第六章：小试牛刀
@@ -1317,17 +1317,17 @@ A. A. Alchian and W. R. Allen, University Economics. Wadsworth Publishing Compan
 
 ### 参考文献
 
-A. A. Alchian and W. R. Allen, University Economics. Wadsworth Publishing Company, 1964.
+A. A. Alchian and W. R. Allen, *University Economics*. Wadsworth Publishing Company, 1964.
 
-J. P. Gould and J. Segall, "The Substitution Effects of Transportation Costs," Journal of Political Economy, 1969.
+J. P. Gould and J. Segall, "The Substitution Effects of Transportation Costs," *Journal of Political Economy*, 1969.
 
-S. N. S. Cheung, "A Theory of Price Control," Journal of Law & Economics, 1974.
+S. N. S. Cheung, "A Theory of Price Control," *Journal of Law & Economics*, 1974.
 
-S. N. S. Cheung, "Why Are Better Seats 'Underpriced'?" Economic Inquiry, 1977.
+S. N. S. Cheung, "Why Are Better Seats 'Underpriced'?" *Economic Inquiry*, 1977.
 
-T. E. Borcherding and E. Silberberg, "Shipping the Good Apples Out: The Alchian and Allen Theorem Reconsidered," Journal of Political Economy, 1978.
+T. E. Borcherding and E. Silberberg, "Shipping the Good Apples Out: The Alchian and Allen Theorem Reconsidered," *Journal of Political Economy*, 1978.
 
-J. Umbeck, "Shipping the Good Apples Out: Some Ambiguities in the Interpretation of 'Fixed Charge'," Journal of Political Economy, 1980.
+J. Umbeck, "Shipping the Good Apples Out: Some Ambiguities in the Interpretation of 'Fixed Charge'," *Journal of Political Economy*, 1980.
 
 
 ## 第七章：交易理论与市场需求
@@ -1480,9 +1480,9 @@ J. Umbeck, "Shipping the Good Apples Out: Some Ambiguities in the Interpretation
 > 
 > 英语 private 这个字译作“私”是没有其他选择的了。中国文化对“私”这个字有负面的含义是不幸的，但那是一个伟大文化的传统。作为一门实证科学，经济学所说的自私（selfish）则有三个不同的看法。
 > 
-> 第一个看法，是自私是天生的。这是源于一九七六年道金斯（Richard Dawkins）出版了一本名为《自私的基因》（The Selfish Gene）的书。这本书重要，博大湛深，也很有说服力。但在经济学上，我不采用这个自私的阐释。
+> 第一个看法，是自私是天生的。这是源于一九七六年道金斯（Richard Dawkins）出版了一本名为《自私的基因》（*The Selfish Gene*）的书。这本书重要，博大湛深，也很有说服力。但在经济学上，我不采用这个自私的阐释。
 > 
-> 第二个看法，是自私是自然淘汰的结果。这是源于亚当・斯密一七七六年出版的《国富论》（The Wealth of Nations）。其意思是说在社会中人不自私不容易生存。一九五〇年，我的老师阿尔钦发表了一篇重要的文章，把斯密之见伸延，影响了一代经济学者在经济科学方法上的争议。阿尔钦说人类争取利益极大化是自然淘汰的结果。这观点对我影响很大，但我自己用上的自私概念可不是自然淘汰，也不是天生自私。
+> 第二个看法，是自私是自然淘汰的结果。这是源于亚当・斯密一七七六年出版的《国富论》（*The Wealth of Nations*）。其意思是说在社会中人不自私不容易生存。一九五〇年，我的老师阿尔钦发表了一篇重要的文章，把斯密之见伸延，影响了一代经济学者在经济科学方法上的争议。阿尔钦说人类争取利益极大化是自然淘汰的结果。这观点对我影响很大，但我自己用上的自私概念可不是自然淘汰，也不是天生自私。
 > 
 > 第三个自私看法，我常用的，是自私源于经济学的一个武断假设。在这假设下，究竟人类是不是天生自私或是不自私不能生存，皆无关宏旨。深入一点地说，这个武断的自私假设是经济学说的在局限下个人争取利益极大化。你给一个小孩子两个选择，同样的糖果他可以选一颗也可以选两颗，如果他选二弃一，就是自私了。
 > 
@@ -1518,15 +1518,15 @@ J. Umbeck, "Shipping the Good Apples Out: Some Ambiguities in the Interpretation
 
 ### 参考文献
 
-A. Marshall, Principles of Economics. Macmillan, 1890.
+A. Marshall, *Principles of Economics*. Macmillan, 1890.
 
-J. Robinson, The Economics of Imperfect Competition. Macmillan, 1933.
+J. Robinson, *The Economics of Imperfect Competition*. Macmillan, 1933.
 
-M. Friedman, Price Theory. Aldine Pub. Co., 1962.
+M. Friedman, *Price Theory*. Aldine Pub. Co., 1962.
 
-A. A. Alchian and W. R. Allen, University Economics. Wadsworth Publishing Company, 1964.
+A. A. Alchian and W. R. Allen, *University Economics*. Wadsworth Publishing Company, 1964.
 
-H. Demsetz, "The Exchange and Enforcement of Property Rights," Journal of Law & Economics, 1964.
+H. Demsetz, "The Exchange and Enforcement of Property Rights," *Journal of Law & Economics*, 1964.
 
 
 ## 第八章：共用品与隔离理论
@@ -1651,15 +1651,15 @@ H. Demsetz, "The Exchange and Enforcement of Property Rights," Journal of Law & 
 
 ### 参考文献
 
-J. S. Mill, Principles of Political Economy. John W. Parker, 1848.
+J. S. Mill, *Principles of Political Economy*. John W. Parker, 1848.
 
-E. Lindahl, "Just Taxation-A Positive Solution," (1919), Classics in the Theory of Public Finance. Macmillan, 1958.
+E. Lindahl, "Just Taxation-A Positive Solution," (1919), *Classics in the Theory of Public Finance*. Macmillan, 1958.
 
-P. A. Samuelson, "The Pure Theory of Public Expenditure," Review of Economics and Statistics, 1954.
+P. A. Samuelson, "The Pure Theory of Public Expenditure," *Review of Economics and Statistics*, 1954.
 
-S. N. S. Cheung, "The Structure of a Contract and the Theory of a Non-exclusive Resource," Journal of Law and Economics, 1970.
+S. N. S. Cheung, "The Structure of a Contract and the Theory of a Non-exclusive Resource," *Journal of Law and Economics*, 1970.
 
-S. N. S. Cheung, "The Fable of the Bees: An Economic Investigation," Journal of Law and Economics, 1973.
+S. N. S. Cheung, "The Fable of the Bees: An Economic Investigation," *Journal of Law and Economics*, 1973.
 
 
 ## 第九章：经济学的理论结构与哲学性质
@@ -1820,10 +1820,10 @@ S. N. S. Cheung, "The Fable of the Bees: An Economic Investigation," Journal of 
 
 ### 参考文献
 
-A. Smith, An Inquiry into the Nature and Causes of the Wealth of Nations, W. Strahan and T. Cadell, 1776.
+A. Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*, W. Strahan and T. Cadell, 1776.
 
-A. Marshall, Principles of Economics. Macmillan, 1890.
+A. Marshall, *Principles of Economics*. Macmillan, 1890.
 
-R. Carnap, Logical Foundations of Probability. University of Chicago Press, 1962.
+R. Carnap, *Logical Foundations of Probability*. University of Chicago Press, 1962.
 
-C. G. Hempel, Philosophy of Natural Science. Prentice-Hall, 1966.
+C. G. Hempel, *Philosophy of Natural Science*. Prentice-Hall, 1966.
