@@ -10,8 +10,33 @@ if [ ! -f "bin/mdbook" ]; then
     # 创建 bin 目录（如果不存在）
     mkdir -p bin
     
-    # 下载 mdbook 预编译包
-    MDBOOK_URL="https://github.com/rust-lang/mdBook/releases/download/v0.5.2/mdbook-v0.5.2-aarch64-apple-darwin.tar.gz"
+    # 根据平台和架构选择对应的安装包
+    MDBOOK_VERSION="v0.5.2"
+    OS="$(uname -s)"
+    ARCH="$(uname -m)"
+
+    case "${OS}" in
+        Linux)
+            case "${ARCH}" in
+                x86_64)  TARGET="x86_64-unknown-linux-gnu" ;;
+                aarch64) TARGET="aarch64-unknown-linux-gnu" ;;
+                *) echo "Error: Unsupported Linux architecture: ${ARCH}"; exit 1 ;;
+            esac
+            ;;
+        Darwin)
+            case "${ARCH}" in
+                x86_64)  TARGET="x86_64-apple-darwin" ;;
+                arm64)   TARGET="aarch64-apple-darwin" ;;
+                *) echo "Error: Unsupported macOS architecture: ${ARCH}"; exit 1 ;;
+            esac
+            ;;
+        *)
+            echo "Error: Unsupported OS: ${OS}"
+            exit 1
+            ;;
+    esac
+
+    MDBOOK_URL="https://github.com/rust-lang/mdBook/releases/download/${MDBOOK_VERSION}/mdbook-${MDBOOK_VERSION}-${TARGET}.tar.gz"
     TAR_FILE="bin/mdbook.tar.gz"
     
     echo "Downloading mdbook from $MDBOOK_URL..."
