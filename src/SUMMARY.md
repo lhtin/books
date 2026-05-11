@@ -13,4 +13,4 @@
 
 - [AI算力民主化（译文）](./democratizing-ai-compute/Democratizing-AI-Compute.md)
 
-- [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](./poor-charlie-almanack/Poor-Charlie-s-Almanack.md)
+- [人类误判心理学](./poor-charlie-almanack/The-Psychology-of-Human-Misjudgment.md)
