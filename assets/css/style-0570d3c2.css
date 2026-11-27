@@ -1,0 +1,64 @@
+:root {
+  --font-chinese:
+    "PingFang SC",
+    "苹方-简",
+    "Source Han Sans SC",
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+
+  --font-serif:
+    "Source Han Serif SC",
+    "思源宋体",
+    "Songti SC",
+    serif;
+
+  --font-code:
+    "JetBrains Mono",
+    "SFMono-Regular",
+    Consolas,
+    monospace;
+
+  --font-size: 17px;
+  --line-height: 1.85;
+  --text-color: #30343B;
+  --heading-color: #20242A;
+  --background-color: #FAFAF7;
+  --muted-color: #777D85;
+}
+
+body {
+    font-family: var(--font-serif) !important;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+p {
+    letter-spacing: 2px;
+    line-height: 2em !important;
+}
+
+/* 打开目录时阅读区宽度保持不变：页面整体右移，窗口不够宽时右侧移出屏幕，
+   以免正文重新换行、返回上一页时滚动位置错位。 */
+.content main {
+    --sidebar-offset: 0px;
+    margin-inline-start: max(0px, calc((100% - var(--sidebar-offset) - min(var(--content-max-width), 100%)) / 2));
+    margin-inline-end: auto;
+}
+.js:not(.sidebar-resizing) .page-wrapper {
+    transition: margin-left 0.3s ease, margin-right 0.3s ease, transform 0.3s ease;
+}
+.js:not(.sidebar-resizing) .content main {
+    transition: margin-inline-start 0.3s ease;
+}
+@media only screen and (min-width: 620px) {
+    #mdbook-sidebar-toggle-anchor:checked ~ .page-wrapper {
+        margin-inline-end: calc(0px - var(--sidebar-width) - var(--sidebar-resize-indicator-width));
+    }
+    #mdbook-sidebar-toggle-anchor:checked ~ .page-wrapper main {
+        --sidebar-offset: calc(var(--sidebar-width) + var(--sidebar-resize-indicator-width));
+    }
+}
